@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(66, 66, 66);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    background-color: aqua;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    border-radius: 20%;
+    margin-left: 550px; 
+    margin-right: 550px; 
+    margin-top: 200px;
+}
+h1{
+    color: rgb(245, 17, 139);
+}
+.button{
+    background-color: rgb(248, 99, 191);
+    border-radius: 5%;
+    color: beige;
+    width: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+}
